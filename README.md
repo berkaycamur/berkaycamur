@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berkaycamur
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Support Vector Regression
+- 🌱 I’m currently learning Support Vector Machines
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me camurberkayy@gmail.com
 
