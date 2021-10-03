@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @berkaycamur
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Neural Networks(ANN)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me camurberkayy@gmail.com
 
 <!---
