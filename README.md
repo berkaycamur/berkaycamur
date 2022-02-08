@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berkaycamur
-- 👀 I’m interested in Image processing and Natural Language Processing.
-- 👀 I'm currently working on a TUBITAK project that i'm working on image processing.
+- :computer: I'm sophomore in computer science department
+- 👀 I’m interested in Natural Language Processing and Data Analysis with SQL
 - 🌱 I’m currently learning Natural Language Processing
 - 📫 How to reach me camurberkayy@gmail.com
 
