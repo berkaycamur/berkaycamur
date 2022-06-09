@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berkaycamur
 - :computer: I'm sophomore in computer science department
-- 👀 I’m interested in Natural Language Processing and Data Analysis with SQL
+- 👀 I’m interested in Computer Vision and Deep Learning Optimization 
 - 🌱 I’m currently learning Natural Language Processing
 - 📫 How to reach me camurberkayy@gmail.com
 
